@@ -1,3 +1,5 @@
+# Runtime: 60ms - Beats 80.40%
+# Memory: 13.9MB - Beats 77.33%
 class Solution:
     def romanToInt(self, s: str) -> int:
         result: int = 0
